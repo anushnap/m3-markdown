@@ -12,12 +12,12 @@ See `complete` branch for answers.
 
 #Change Directory, CD
 
-'cd' as a command in the terminal can be used to change the directory you are in. 'cd' must be followed by an appropriate folder name or pathway. For example:
+`cd` as a command in the terminal can be used to change the directory you are in. `cd` must be followed by an appropriate folder name or pathway. For example:
 
-'''
+```
 cd ~/Desktop/imgs
-'''
+```
 
-## Things 'cd' can do
+## Things `cd` can do
 * Navigate your file system
     * Traverse the tree structure of your files to go to a specific location
